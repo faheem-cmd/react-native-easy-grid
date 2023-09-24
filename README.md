@@ -1,3 +1,3 @@
 # react-native-easy-grid
-## about
+## about package
  Responsive Grid View for React Native
